@@ -23,5 +23,5 @@ Proyecto base de un e-commerce hecho con React. Muestra un listado de productos 
 - CSS
 
 ## Capturas
-![Vista general](./public/screenshots/principal.png)
-![Buscador funcionando](./public/screenshots/calzado.png)
+![Vista general](./public/capturas/principal.png)
+![Buscador funcionando](./public/capturas/calzado.png)
