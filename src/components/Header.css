@@ -1,0 +1,29 @@
+.header {
+    position: sticky;
+    top: 0;
+    background: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 16px;
+  }
+  
+  .header__inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  
+  .header__brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .header__logo {
+    font-size: 22px;
+  }
+  
+  .header__title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  

@@ -1,0 +1,16 @@
+.search {
+    margin-bottom: 14px;
+  }
+  
+  .search__input {
+    width: 100%;
+    padding: 12px 14px;
+    border-radius: 12px;
+    border: 1px solid #d1d5db;
+    outline: none;
+  }
+  
+  .search__input:focus {
+    border-color: #111827;
+  }
+  
