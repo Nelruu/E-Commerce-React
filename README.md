@@ -1,7 +1,7 @@
 # E-Commerce React
 
 ## Descripción
-Proyecto base de un e-commerce hecho con React. Muestra un listado de productos usando datos simulados y permite buscar productos por nombre o categoría.
+Proyecto base de un e-commerce hecho con React. Muestra un listado de productos usando datos simulados y permite buscar productos por nombre o categoría, ademas de poder crear un carrito agregando los productos deseados.
 
 ## Componentes creados
 - Header
