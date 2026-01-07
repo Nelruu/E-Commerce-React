@@ -11,6 +11,12 @@ Proyecto base de un e-commerce hecho con React. Muestra un listado de productos 
 - ProductList
 - SearchBar
 
+## Instrucciones para ejecutar el proyecto
+1. Clonar el repositorio:
+   ```
+   git clone https://github.com/Nelruu/E-Commerce-React.git
+   
+
 ## Funcionalidades
 - Renderiza un listado de productos
 - Buscador por texto (filtra por nombre y categoría)
