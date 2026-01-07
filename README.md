@@ -15,7 +15,18 @@ Proyecto base de un e-commerce hecho con React. Muestra un listado de productos 
 1. Clonar el repositorio:
    ```
    git clone https://github.com/Nelruu/E-Commerce-React.git
-   
+
+2. Entrar a la carpeta:
+   ```
+   cd ecommerce-react
+
+3. Instalar dependencias:
+   ```
+   npm install
+
+4. Ejecutar en desarrollo:
+   ```
+   npm run dev
 
 ## Funcionalidades
 - Renderiza un listado de productos
