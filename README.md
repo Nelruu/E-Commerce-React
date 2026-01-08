@@ -18,7 +18,7 @@ Proyecto base de un e-commerce hecho con React. Muestra un listado de productos 
 
 2. Entrar a la carpeta:
    ```
-   cd ecommerce-react
+   cd .\E-Commerce-React\
 
 3. Instalar dependencias:
    ```
